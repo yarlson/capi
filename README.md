@@ -3,7 +3,7 @@
 ## Run
 
 ```shell script
-go run ./capi.go [ -l listen]
+go run ./main.go [ -l listen]
 ```
 
 ## Endpoints
@@ -36,7 +36,7 @@ curl -i -X POST http://127.0.0.1:8080/api/v1/bremove/f111a
 See *.json files for sample
 
 ```shell script
-curl -X POST -H "Content-Type: application/json" -d @bhyve_create_minimal.json http://127.0.0.1:8080/api/v1/bcreate/f111a
+curl -X POST -H "Content-Type: application/json" -d @examples/bhyve_create_minimal.json http://127.0.0.1:8080/api/v1/bcreate/f111a
 ```
 
 This is a just simple example. Contributing is welcome!
