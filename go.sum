@@ -1,0 +1,4 @@
+github.com/gorilla/mux v1.7.4 h1:VuZ8uybHlWmqV03+zRzdwKL4tUnIp1MAQtp1mIFE1bc=
+github.com/gorilla/mux v1.7.4/go.mod h1:DVbg23sWSpFRCP0SfiEN6jmj59UnW/n46BH5rLB71So=
+github.com/mattn/go-getopt v0.0.0-20150316012638-824dc755f216 h1:vJJXFwK70ooqBHwMksszqmdsWzR9qgLuIpW5sqxXb3I=
+github.com/mattn/go-getopt v0.0.0-20150316012638-824dc755f216/go.mod h1:2uCwQeFuJy1M6CD1U13P4er3sZ8BgifMtkgSIhV1vgg=
